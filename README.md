@@ -1,8 +1,8 @@
-# Template de residuos hospitalarios
+# TrazaSan Frontend
 
-Base visual en Next.js para desarrollar una aplicación local de control y trazabilidad de residuos hospitalarios.
+Frontend en Next.js de TrazaSan para el control y la trazabilidad de residuos hospitalarios. Este repositorio, `trazasan-frontend`, contiene la interfaz de usuario; el backend se desarrolla en [trazasan-platform](https://github.com/migueljuncalpz/trazasan-platform).
 
-La plantilla incluye un dashboard responsive, datos de demostración, búsqueda y un formulario que añade registros en memoria. No contiene integraciones de ChatGPT Sites, autenticación, base de datos ni servicios externos.
+Actualmente incluye un dashboard responsive, datos de demostración, búsqueda, un formulario que añade registros en memoria y una consulta del estado del backend. La autenticación y la persistencia de los registros están pendientes de implementar.
 
 ## Desarrollo local
 
